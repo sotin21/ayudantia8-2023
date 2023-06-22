@@ -11,3 +11,10 @@ No, ya que con los métodos de apoyo (validacionIdentificacion) no permitira agr
 ¿Qué se necesita para generar una
 venta? ¿Destino?
 Se necesitará el nombre del cliente, identificacion, origen, destino y el precio el cual saldra en funcion al destino que este elija.
+
+AYUDANTIA 9
+
+¿Qué relación de herencia se puede
+implementar en la problemática de la
+agencia de viajes?
+En este caso de la agencia, podemos implementar la herencia en Agente y Cliente, ya que ambos comparten tanto el nombre, apellido y la identificacion,por lo tanto tenemos 3 relaciones por las cuales podemos relacionarlas una con otra. 
